@@ -1,0 +1,6 @@
+/* src/index.css */
+
+/* TailwindCSS 기본 스타일 주입 */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
