@@ -1,6 +1,7 @@
 {
   "name": "simple-e-shop",
   "version": "0.1.0",
+  "homepage": "/eshop",
   "private": true,
   "dependencies": {
     "@tanstack/react-query": "^5.90.6",
